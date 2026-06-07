@@ -1,3 +1,3 @@
 A dialog installer for a buildroot Linux project.
 
-The aim is to create a BSD/Slackware like installer for a i486 buildroot target supporting pkgsrc package
+The aim is to create a BSD/Slackware like installer for a i486 buildroot target supporting pkgsrc packages
