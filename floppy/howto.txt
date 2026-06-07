@@ -1,0 +1,27 @@
+Floppy 1.44 MB
+ ├─ FreeDOS
+ ├─ OAKCDROM.SYS
+ ├─ SHSUCDX
+ ├─ LOADLIN
+ └─ AUTOEXEC.BAT
+
+CD-ROM
+ ├─ boot/vmlinuz
+ ├─ boot/initramfs.cpio.gz
+ ├─ installer
+ └─ packages
+ 
+ 
+ Floppy FreeDOS
+  ↓
+LOADLIN
+  ↓
+Kernel
+  ↓
+mini-initramfs
+  ↓
+mount CD
+  ↓
+switch_root
+  ↓
+installer
